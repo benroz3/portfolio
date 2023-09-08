@@ -52,6 +52,13 @@ export const projects = [
     tech: "React Native",
     link: "https://github.com/benroz3/clothing-app",
   },
+  {
+    title: "Admin Dashboard",
+    img: admin,
+    type: "Front-end",
+    tech: "React & TypeScript",
+    link: "https://main--effulgent-entremet-9cfac9.netlify.app/",
+  },
   // {
     //   title: "Games Library",
     //   img: gamesLibrary,
@@ -66,13 +73,6 @@ export const projects = [
     tech: "TypeScript & PixiJS",
     link: "https://github.com/benroz3/zombie-horde",
   },
-  // {
-  //   title: "Admin Dashboard",
-  //   img: admin,
-  //   type: "Front-end",
-  //   tech: "React & TypeScript",
-  //   link: "https://main--effulgent-entremet-9cfac9.netlify.app/",
-  // },
   {
     title: "Nike Store",
     img: nike,
