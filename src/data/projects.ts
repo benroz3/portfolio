@@ -3,6 +3,7 @@ import fiverrImg from "../../public/assets/projects/fiverr.png";
 import map from "../../public/assets/projects/map.png";
 import clothes from "../../public/assets/projects/clothes.png";
 import zombies from "../../public/assets/projects/zombieHordeGame.png";
+import platformer from "../../public/assets/projects/platformer.png";
 import nike from "../../public/assets/projects/nike.png";
 import admin from "../../public/assets/projects/admin.png";
 import spotify from "../../public/assets/projects/spotify.png";
@@ -72,6 +73,13 @@ export const projects = [
     type: "Game",
     tech: "TypeScript & PixiJS",
     link: "https://github.com/benroz3/zombie-horde",
+  },
+  {
+    title: "Platformer Game",
+    img: platformer,
+    type: "Game",
+    tech: "Python & Pygame",
+    link: "https://github.com/benroz3/platformer",
   },
   {
     title: "Nike Store",
